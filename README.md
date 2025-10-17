@@ -1,6 +1,6 @@
-# Blog de Notícias utilizando HTML, CSS, Flexbox, Variáveis e Responsividade.
+## Blog de Notícias utilizando HTML, CSS, Flexbox, Variáveis e Responsividade.
 
-[Link da página](https://prof-marneicardoso.github.io/blog-noticias-fs29/)
+## [Link da página](https://prof-marneicardoso.github.io/blog-noticias-fs29/)
 
 ---
 
