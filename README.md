@@ -3,6 +3,12 @@
 ## [Link da página](https://prof-marneicardoso.github.io/blog-noticias-fs29/)
 
 ---
+<!-- Título | Link -->
+[Meu Site](https://prof-marneicardoso.github.io/blog-noticias-fs29/)
+
+<!-- Para abrir em nova aba -->
+<a href="https://prof-marneicardoso.github.io/blog-noticias-fs29/" target="_blank">Meu site</a>
+
 
 <!-- 
 ## Teste
